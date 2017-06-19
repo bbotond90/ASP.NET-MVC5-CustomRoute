@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomRoute.WEB", "CustomRo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomRoute.WEB.Tests", "CustomRoute.WEB.Tests\CustomRoute.WEB.Tests.csproj", "{DB3DD55E-DBE8-40ED-BD3F-A0CE3DF613F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomRoute", "CustomRoute\CustomRoute.csproj", "{0F74A4BA-E7C3-4272-8192-00CBC551139B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DB3DD55E-DBE8-40ED-BD3F-A0CE3DF613F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB3DD55E-DBE8-40ED-BD3F-A0CE3DF613F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB3DD55E-DBE8-40ED-BD3F-A0CE3DF613F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F74A4BA-E7C3-4272-8192-00CBC551139B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F74A4BA-E7C3-4272-8192-00CBC551139B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F74A4BA-E7C3-4272-8192-00CBC551139B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F74A4BA-E7C3-4272-8192-00CBC551139B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
